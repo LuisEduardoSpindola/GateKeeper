@@ -2,7 +2,7 @@
 
 **Objetivo:** Criar uma plataforma de autenticação que centraliza o login de múltiplos sistemas e serviços (SSO), integrando diferentes provedores de identidade (Google, Facebook, GitHub, Microsoft, etc.) com suporte a microserviços.
 
-**Tecnologias:** ASP.NET Core, IdentityServer4 (ou OpenIddict), Docker, Kubernetes, RabbitMQ.
+**Tecnologias:** ASP.NET Core, JWT, Docker, Kubernetes, RabbitMQ.
 
 **Desafios:**
 
